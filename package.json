@@ -2,7 +2,7 @@
   "name": "yuefii-ai",
   "version": "1.0.0",
   "scripts": {
-    "dev": "node src/app.js"
+    "start": "node src/app.js"
   },
   "keywords": [],
   "author": "",
